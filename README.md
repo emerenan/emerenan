@@ -1,4 +1,4 @@
-### Emerson Renan Souza :man_technologist:
+### :man_technologist: Hey guys! 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/emerson-santo-8459b232/)](https://www.linkedin.com/in/emerson-santo-8459b232/)
 
