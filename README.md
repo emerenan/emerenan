@@ -6,9 +6,10 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:renansouza.it@gmail.com)](mailto:renansouza.it@gmail.com)
 
 
-Emerson holds a BS in Information Systems From Faculdade Estácio. He studies Python for data analysis, Machine Learnig, and Data Science at DataCamp, and is a BI specialist at BI Academy. He has extensive knowledge of Data Scource, ETL, Data Modeling, Data Analysis and Data Visualization, and uses software such as Pentaho, Google Data Studio and Power BI.
-
-- 🔭 I’m currently avaliable to work with ETL, Data modeling, Data visualization, and Python.
-- 🌱 I’m currently learning Python, Data Analysis, and Data Science.
-- 👯 I’m looking to collaborate on Open Source project focus on Exploring Data Analysis.
-- 🤔 I’m looking for help with get a Job coding in Python and BI.
+Work experience with projects, data engineering, analycts engineering and Business intelligence:
+- Work experience creating Data Pipelines, Data Analysis, and Dashboards;
+- Work experience in Data Visualisation (Power BI, Data Studio, MetaBase, Tableau, Looker); 
+- Solid knowledge of coding using Python;
+- Solid knowledge of SQL scripts;
+- Solid knowledge of Data Quality;
+- Bachelor in System of information.
